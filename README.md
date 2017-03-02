@@ -1,2 +1,2 @@
 # first-cplusplus
-I'm going to use this repository to manage the first c++ project from the book
+I'm going to use this repository to manage the c++ projects from the book
